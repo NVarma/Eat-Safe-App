@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    packagingOptions {
+        exclude 'allclasses-frame.html'
+        exclude 'META-INF/licenses/notice.txt'
+        exclude 'allclasses-noframe.html'
+        exclude 'constant-values.html'
+        exclude 'help-doc.html'
+    }
+    defaultConfig {
+        applicationId "com.example.android.photobyintent"
+        minSdkVersion 4
+        targetSdkVersion 12
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('src/main/java/com/lib/aspose-ocr-2.3.0.jar')
+    compile files('src/main/java/com/lib/aspose-ocr-2.3.0-javadoc.jar')
+    compile files('src/main/java/com/lib/aspose-omr-2.3.0.jar')
+    compile files('src/main/java/com/lib/aspose-omr-2.3.0-javadoc.jar')
+}

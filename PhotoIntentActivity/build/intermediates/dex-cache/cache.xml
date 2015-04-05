@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\src\main\java\com\lib\aspose-ocr-2.3.0-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48e09a551eac6ccb8a49ef2f98b873cf9d4fbf78">
+        <dex dex="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\aspose-ocr-2.3.0-javadoc-b5dd84affd8eb58e8bfac602a2a7e17afb9e4c84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\src\main\java\com\lib\aspose-omr-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7eb83797c823994154743f7d76a1ae976957df23">
+        <dex dex="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\aspose-omr-2.3.0-66fdabc3d07c442c01e5c52aea5ebe82c422d512.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\src\main\java\com\lib\aspose-omr-2.3.0-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="89080db49dfdf6049d1526fe4c32b8d90c21d50a">
+        <dex dex="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\aspose-omr-2.3.0-javadoc-df165b687512dde8098edbc97e59ea5dce51132f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\src\main\java\com\lib\aspose-ocr-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3636bd199293ad6a61e2e2b1d82f61361bf39dd">
+        <dex dex="C:\Users\Nikita\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\aspose-ocr-2.3.0-9721c4b9e7234e9a5427ae8852c24d6757997a28.jar" />
+    </item>
+
+</items>
